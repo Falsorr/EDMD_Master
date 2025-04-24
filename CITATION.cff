@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "FASSLER"
+  given-names: "Daniel"
+title: "Finite-data Error Bounds for Approximating the Koopman Operator"
+version: 1.0.0
+date-released: 2025-04-24
+url: "https://github.com/Falsorr/EDMD_Master"
